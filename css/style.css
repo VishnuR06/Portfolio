@@ -5,20 +5,27 @@
 }
 .about
 {
-    color: rgb(245, 209, 7);
+    color: rgb(253, 253, 253);
     height: 270px;
+    width: 340px;
 }
 .skills
 {
     height: 270px;
+    width: 370px;
+    
 }
 .skills-img
 {
     height: 270px;
+    width: 370px;
+    border-radius: 20px;
 }
 .about-img
 {
     height: 270px;
+    border-radius: 20px;
+    width: 340px;
 }
 /* body {
     background-image: url('/images/bodybg.jpg'); 
