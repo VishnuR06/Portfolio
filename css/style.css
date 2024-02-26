@@ -6,26 +6,26 @@
 .about
 {
     color: rgb(253, 253, 253);
-    height: 350px;
-    width: 430px;
+    height: 280px;
+    width: 380px;
 }
 .skills
 {
-    height: 350px;
-    width: 430px;
+    height: 280px;
+    width: 380px;
     
 }
 .skills-img
 {
-    height: 350px;
-    width: 430px;
+    height: 280px;
+    width: 380px;
     border-radius: 20px;
 }
 .about-img
 {
-    height: 350px;
+    height: 280px;
     border-radius: 20px;
-    width: 430px;
+    width: 380px;
 }
 /* body {
     background-image: url('/images/bodybg.jpg'); 
